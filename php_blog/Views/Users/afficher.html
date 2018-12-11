@@ -1,0 +1,22 @@
+
+<h1> All Users </h1>
+
+<div id="nav">
+
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Username</th>
+            <th>Password</th>
+        </tr>
+        {% for user in users %}
+        <!--<p>{{dump(item)}}</p>-->
+        <tr>
+            <td>{{user.id}}</td>
+            <td>{{user.username}}</td>
+            <td>{{user.psw}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+</div>

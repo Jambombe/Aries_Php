@@ -1,0 +1,15 @@
+
+<!--
+    Template inclus dans Blogs/oneBlog.html
+    L'array 'articles' existe là-bas
+-->
+    {% for a in articles %}
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">{{a.title}}</h5>
+            <h6 class="card-subtitle mb-2 text-muted">{{a.artDate}}</h6>
+            <p class="card-text">{{a.content}}</p>
+          </div>
+        </div>
+        </br>
+    {% endfor %}

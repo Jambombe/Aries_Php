@@ -1,0 +1,28 @@
+
+<h1> Tout les blogs</h1>
+
+<div id="nav">
+
+<!--    <table>
+        {% for blog in blogs %}
+        <p>{{dump(item)}}</p>
+        <tr>
+            <td>{{blog.title}}</td>
+            <td>{{blog.username}}</td>
+        </tr>
+        {% endfor %}
+    </table>-->
+<table class="table table-hover">
+  <tbody>
+        {% for blog in blogs %}
+    <tr>
+        <td>{{blog.title}}</td>
+        <td>{{blog.username}}</td>
+        <td>{{blog.creationDate}}</td>
+        <td><a href='index.php?action=blog&id={{blog.id}}' class='btn btn-secondary'>Consulter</a></td>
+    </tr>
+        {% endfor %}
+  </tbody>
+</table>
+
+</div>

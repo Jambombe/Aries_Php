@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Aries/Documents/NetBeansProjects/php_blog/Entity/Article.php</file>
+            <file>file:/C:/Users/Aries/Documents/NetBeansProjects/php_blog/Repository/BlogRepository.php</file>
+            <file>file:/C:/Users/Aries/Documents/NetBeansProjects/php_blog/Entity/Blog.php</file>
+            <file>file:/C:/Users/Aries/Documents/NetBeansProjects/php_blog/Views/Blogs/allBlogs.html</file>
+            <file>file:/C:/Users/Aries/Documents/NetBeansProjects/php_blog/Repository/UserRepository.php</file>
+            <file>file:/C:/Users/Aries/Documents/NetBeansProjects/php_blog/Styles/style.css</file>
+            <file>file:/C:/Users/Aries/Documents/NetBeansProjects/php_blog/Controllers/BlogController.php</file>
+            <file>file:/C:/Users/Aries/Documents/NetBeansProjects/php_blog/Views/connexion.html</file>
+            <file>file:/C:/Users/Aries/Documents/NetBeansProjects/php_blog/Views/Blogs/oneBlog.html</file>
+            <file>file:/C:/Users/Aries/Documents/NetBeansProjects/php_blog/Entity/User.php</file>
+            <file>file:/C:/Users/Aries/Documents/NetBeansProjects/php_blog/Controllers/UserController.php</file>
+            <file>file:/C:/Users/Aries/Documents/NetBeansProjects/php_blog/Lib/createUser.php</file>
+        </group>
+    </open-files>
+</project-private>

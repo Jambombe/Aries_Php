@@ -1,0 +1,2 @@
+ - Pourquoi filter_input ? Quels sont les pb de sécurité ?
+ - Pourquoi XxxRepository extends la classe Xxx ?

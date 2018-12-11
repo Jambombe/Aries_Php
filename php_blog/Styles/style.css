@@ -1,0 +1,16 @@
+body{
+    width: 65%;
+    margin: auto;
+    font-family: Arial, Comfortaa, Montserrat;
+}
+
+nav{
+    margin-bottom: 20px;
+}
+
+/* Centre tout les elem fils de la div <div class="center"> */
+.center{
+    margin: auto;
+    vertical-align: middle;
+    text-align: center;
+}

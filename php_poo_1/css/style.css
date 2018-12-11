@@ -1,0 +1,83 @@
+body
+{
+	width: 95%;
+	margin: auto;
+	background-color: #fcfcff;
+
+	font-family: Comfortaa;
+}
+
+a
+{
+	text-decoration: none;
+	color: #20CB54;
+}
+
+a:hover
+{
+	color: #168738;
+}
+
+/* Menu navigation */
+
+nav
+{
+	margin-top: 10px;
+}
+
+nav button, nav a
+{
+	padding: 5px 10px 5px 10px;
+	color: #20CB54;
+	border-top: 1px solid #20CB54;
+	border-left: 1px solid #20CB54;
+	border-right: 1px solid #20CB54;
+
+	font-family: Comfortaa;
+
+	display: block;
+}
+
+nav button:last-child, nav a:last-child
+{
+	border-bottom: 1px solid #20CB54;
+}
+
+nav button:hover, nav a:hover
+{
+	color: white;
+	background-color: #20CB54;
+}
+
+/**************************/
+
+div#mainDiv
+{
+	margin-top: 50px;
+}
+
+.fiche img
+{
+	display: inline-block;
+	max-width: 250px;
+	border-radius: 5px;
+}
+
+div.fiche
+{
+	width: 650px;
+	margin: auto;
+	border: 1px solid #222;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+div.manger
+{
+	font-weight: bold;
+	margin: 10px;
+	position: relative;
+	right: 10px;
+	display: inline-block;
+	padding: 20px;
+}
